@@ -4,3 +4,11 @@
 
 1615877296 d:\dtitcode\crctool\crc.h
 
+1615873671 source:d:\dtitcode\endpoints_2020\crctool\crc.c
+	"crc.h"
+
+1615873696 d:\dtitcode\endpoints_2020\crctool\crc.h
+
+1617705987 source:d:\dtitcode\endpoints_2020\crctool\main.c
+	"crc.h"
+
